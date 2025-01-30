@@ -1,17 +1,11 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: firstdeploy
+  name: seconddeploy
   labels:
-    name: firstdeploy
+    name: seconddeploy
 spec:
-  replicas: 6
-  minReadySeconds: 60
-  strategy:
-    rollingUpdate:
-      maxSurge: 0
-      maxUnavailable: 1
-    type: RollingUpdate
+  replicas: 10
   selector:
     matchLabels:
       app: myapp
@@ -22,4 +16,4 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: nginx
+          image: nginx:latest
