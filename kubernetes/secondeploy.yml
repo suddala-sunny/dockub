@@ -4,6 +4,8 @@ metadata:
   name: seconddeploy
   labels:
     name: seconddeploy
+  annotations:
+    kubernetes.io/change-cause: "my custom message"
 spec:
   replicas: 10
   selector:
@@ -16,4 +18,4 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: nginx:latest
+          image: sudsunny/tiger2:v2

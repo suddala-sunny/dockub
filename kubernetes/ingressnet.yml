@@ -1,0 +1,19 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: ingressnetwork
+  labels:
+    name: myapp
+spec:
+  rules:
+  - host: suddala.sunny.com
+    http:
+      paths:
+      - pathType: Prefix
+        path: "/"
+        backend:
+          service:
+            name: ingressnetwork
+            port: 
+              number: 8080
+
