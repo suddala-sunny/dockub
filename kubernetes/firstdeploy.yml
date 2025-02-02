@@ -23,3 +23,7 @@ spec:
       containers:
         - name: firstdeploycontainer
           image: nginx
+      initContainers:
+        - name: initdeploycontainer
+          image: redis
+
