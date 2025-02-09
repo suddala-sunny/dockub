@@ -1004,3 +1004,331 @@ Handling connection for 8081
 Handling connection for 8081
 Handling connection for 8081
 Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+E0202 21:26:17.252903    6255 portforward.go:385] "Unhandled Error" err="error copying from remote stream to local connection: readfrom tcp4 127.0.0.1:8081->127.0.0.1:36076: write tcp4 127.0.0.1:8081->127.0.0.1:36076: write: broken pipe"
+E0202 21:26:21.467591    6255 portforward.go:385] "Unhandled Error" err="error copying from remote stream to local connection: readfrom tcp4 127.0.0.1:8081->127.0.0.1:36060: write tcp4 127.0.0.1:8081->127.0.0.1:36060: write: broken pipe"
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+E0203 05:46:15.821484    6255 portforward.go:413] "Unhandled Error" err="an error occurred forwarding 8081 -> 8080: error forwarding port 8080 to pod e726adc85fcb5e86724ea64197bf0d1567b752cb97580d6cb2fec66219efd246, uid : container not running (e726adc85fcb5e86724ea64197bf0d1567b752cb97580d6cb2fec66219efd246)"
+error: lost connection to pod
+Forwarding from 127.0.0.1:8081 -> 8080
+Forwarding from [::1]:8081 -> 8080
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+error: lost connection to pod
+E0207 11:32:12.385806    3360 cert_rotation.go:171] "Unhandled Error" err="key failed with : open /home/sxsunny/.minikube/profiles/minikube/client.crt: no such file or directory" logger="UnhandledError"
+E0207 11:32:12.396029    3360 cert_rotation.go:171] "Unhandled Error" err="key failed with : open /home/sxsunny/.minikube/profiles/minikube/client.crt: no such file or directory" logger="UnhandledError"
+E0207 11:32:12.409483    3360 cert_rotation.go:171] "Unhandled Error" err="key failed with : open /home/sxsunny/.minikube/profiles/minikube/client.crt: no such file or directory" logger="UnhandledError"
+E0207 11:32:12.432734    3360 cert_rotation.go:171] "Unhandled Error" err="key failed with : open /home/sxsunny/.minikube/profiles/minikube/client.crt: no such file or directory" logger="UnhandledError"
+E0207 11:32:12.476907    3360 cert_rotation.go:171] "Unhandled Error" err="key failed with : open /home/sxsunny/.minikube/profiles/minikube/client.crt: no such file or directory" logger="UnhandledError"
+E0207 11:32:12.559200    3360 cert_rotation.go:171] "Unhandled Error" err="key failed with : open /home/sxsunny/.minikube/profiles/minikube/client.crt: no such file or directory" logger="UnhandledError"
+E0207 11:32:12.721270    3360 cert_rotation.go:171] "Unhandled Error" err="key failed with : open /home/sxsunny/.minikube/profiles/minikube/client.crt: no such file or directory" logger="UnhandledError"
+E0207 11:32:13.043267    3360 cert_rotation.go:171] "Unhandled Error" err="key failed with : open /home/sxsunny/.minikube/profiles/minikube/client.crt: no such file or directory" logger="UnhandledError"
+E0207 11:32:13.687805    3360 cert_rotation.go:171] "Unhandled Error" err="key failed with : open /home/sxsunny/.minikube/profiles/minikube/client.crt: no such file or directory" logger="UnhandledError"
+E0207 11:32:14.973799    3360 cert_rotation.go:171] "Unhandled Error" err="key failed with : open /home/sxsunny/.minikube/profiles/minikube/client.crt: no such file or directory" logger="UnhandledError"
+E0207 11:32:17.543512    3360 cert_rotation.go:171] "Unhandled Error" err="key failed with : open /home/sxsunny/.minikube/profiles/minikube/client.crt: no such file or directory" logger="UnhandledError"
+E0207 11:32:22.666522    3360 cert_rotation.go:171] "Unhandled Error" err="key failed with : open /home/sxsunny/.minikube/profiles/minikube/client.crt: no such file or directory" logger="UnhandledError"
+E0207 11:32:32.482043    3360 cert_rotation.go:171] "Unhandled Error" err="key failed with : open /home/sxsunny/.minikube/profiles/minikube/client.crt: no such file or directory" logger="UnhandledError"
+E0207 15:35:30.974521    3360 dashboard.go:129] Wait: signal: bus error (core dumped)
+E0209 12:08:57.691159    3218 dashboard.go:129] Wait: signal: bus error (core dumped)
+error: unknown command "dashboard" for "kubectl"
+🔌  Enabling dashboard ...
+    ▪ Using image docker.io/kubernetesui/dashboard:v2.7.0
+    ▪ Using image docker.io/kubernetesui/metrics-scraper:v1.0.8
+💡  Some dashboard features require the metrics-server addon. To enable all features please run:
+
+	minikube addons enable metrics-server
+
+🤔  Verifying dashboard health ...
+🚀  Launching proxy ...
+🤔  Verifying proxy health ...
+🤔  Verifying dashboard health ...
+🚀  Launching proxy ...
+🤔  Verifying proxy health ...
+🎉  Opening http://127.0.0.1:37935/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/ in your default browser...
+/usr/bin/xdg-open: 882: x-www-browser: not found
+/usr/bin/xdg-open: 882: firefox: not found
+/usr/bin/xdg-open: 882: iceweasel: not found
+/usr/bin/xdg-open: 882: seamonkey: not found
+/usr/bin/xdg-open: 882: mozilla: not found
+🎉  Opening http://127.0.0.1:40285/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/ in your default browser...
+/usr/bin/xdg-open: 882: epiphany: not found
+/usr/bin/xdg-open: 882: konqueror: not found
+/usr/bin/xdg-open: 882: x-www-browser: not found
+/usr/bin/xdg-open: 882: chromium: not found
+/usr/bin/xdg-open: 882: firefox: not found
+/usr/bin/xdg-open: 882: chromium-browser: not found
+/usr/bin/xdg-open: 882: iceweasel: not found
+/usr/bin/xdg-open: 882: google-chrome: not found
+/usr/bin/xdg-open: 882: seamonkey: not found
+/usr/bin/xdg-open: 882: www-browser: not found
+/usr/bin/xdg-open: 882: mozilla: not found
+/usr/bin/xdg-open: 882: links2: not found
+/usr/bin/xdg-open: 882: epiphany: not found
+/usr/bin/xdg-open: 882: elinks: not found
+/usr/bin/xdg-open: 882: konqueror: not found
+/usr/bin/xdg-open: 882: links: not found
+/usr/bin/xdg-open: 882: chromium: not found
+/usr/bin/xdg-open: 882: lynx: not found
+/usr/bin/xdg-open: 882: chromium-browser: not found
+/usr/bin/xdg-open: 882: w3m: not found
+xdg-open: no method available for opening 'http://127.0.0.1:37935/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/'
+
+❌  Exiting due to HOST_BROWSER: failed to open browser: exit status 3
+
+/usr/bin/xdg-open: 882: google-chrome: not found
+/usr/bin/xdg-open: 882: www-browser: not found
+/usr/bin/xdg-open: 882: links2: not found
+/usr/bin/xdg-open: 882: elinks: not found
+/usr/bin/xdg-open: 882: links: not found
+/usr/bin/xdg-open: 882: lynx: not found
+/usr/bin/xdg-open: 882: w3m: not found
+xdg-open: no method available for opening 'http://127.0.0.1:40285/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/'
+
+❌  Exiting due to HOST_BROWSER: failed to open browser: exit status 3
+
